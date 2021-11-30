@@ -25,7 +25,7 @@ To create a celebratory post on LinkedIn:
 6. Select an image to go with your post by clicking on the **Add a photo** link or selecting an image from the images displayed in the section. Click on the **Next** button.
 7. On the *Select recipient* screen, you can choose a person or more people to tag in your post. Start typing the name of the person and select them to tag them in your post. Click on the **Next** button.
 8. You can use and modify the prefilled text template or compose your own message to be displayed in the post.
-9. Select hashtags
+9. A few hashtag suggestions are added by default as well. You can leaave the suggestions as they are, remove them or add new hashtags by starting to type in the hashtag and selecting the hashtag from the suggestions which will display below.
 10. Decide who can comment on the post by clicking on the **Anyone** button located to/on the left of the *Post* button. selecting the radio button by the audience:
     - *Anyone*;
     - *Connections only*;
