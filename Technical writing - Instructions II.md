@@ -14,7 +14,7 @@ To create a celebratory post on LinkedIn:
     - *Anyone + Twitter*: Anyone on and off LinkedIn and the post will be shared via your Twitter account if you have a Twitter account connected to LinkedIn;
     - *Connections only*: Connections on LinkedIn;
     - *Group members*: You can select a LinkedIn group with whom you will share the post. 
-    *_Note:_* If you have create posts before and changed the audience who can comment before, the button will be called according to the currently selected audience, for example *Anyone*, *Anyone + Twitter*, *Connections only* or *Group members*.
+    - *_Note:_* If you have create posts before and changed the audience who can comment before, the button will be called according to the currently selected audience, for example *Anyone*, *Anyone + Twitter*, *Connections only* or *Group members*.
 4. Choose the post type by clicking on the *Celebrate an occasion* badge icon at the bottom of the window.
 5. Select the type of the celebratory post. You can choose from the following options:
     - *Welcome to the Team* to celebrate a new collegue joining your team;
